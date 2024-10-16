@@ -1,0 +1,5 @@
+for execution of this program 
+step 1: Download python software based on your system requirement
+step2: After downloading install files 
+then create a new file 
+and run the calculator.py 
